@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ldo89ytinlg52fs4?svg=true)](https://ci.appveyor.com/project/QA-Netology/hw-2-1-webtesting)
